@@ -1,9 +1,9 @@
 # Amazon sales Analysis using MySQL
 
-Problem Statement:-
+# Problem Statement:-
 You are working at Amazon, a leading e-commerce platform. The management has tasked you with analyzing sales data by performing different queries in sql. 
 
-Project Aim
+# Project Aim
 
 1) List all products with a discounted price below ₹500.
 2) Find products with a discount percentage of 50% or more.
